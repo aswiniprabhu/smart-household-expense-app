@@ -55,10 +55,10 @@ Managing household expenses effectively is essential for better financial planni
 smart-household-expense-app/
 │
 ├── app_new.py
-├── requirements.txt
 ├── README.md
-├── Dataset A(Linear).csv
-├── config.toml
+├── requirements.txt
+├── datasets/
+├── screenshots/
 └── .streamlit/
 ```
 
