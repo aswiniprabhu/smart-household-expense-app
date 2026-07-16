@@ -3,7 +3,7 @@
 ## Run
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app_new.py
 ```
 
 The app includes:
