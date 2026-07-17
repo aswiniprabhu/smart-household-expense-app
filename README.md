@@ -53,7 +53,7 @@ Analyze the relationship between household expenses and financial variables usin
 
 Identify important factors influencing household expenses using Random Forest Regression.
 
-![Random Forest](screenshots/Random Forest.png)
+![Random Forest](screenshots/RandomForest.png)
 
 ---
 
@@ -61,7 +61,7 @@ Identify important factors influencing household expenses using Random Forest Re
 
 Compare the performance of Linear Regression and Random Forest models using evaluation metrics.
 
-![Model Comparison](screenshots/Model Comparison.png)
+![Model Comparison](screenshots/ModelComparison.png)
 
 ---
 
@@ -69,7 +69,7 @@ Compare the performance of Linear Regression and Random Forest models using eval
 
 Predict household expenses based on user-provided inputs using the trained machine learning model.
 
-![Expense Predictor](screenshots/Expense Predictor.png)
+![Expense Predictor](screenshots/ExpensePredictor.png)
 
 ## Technologies Used
 
