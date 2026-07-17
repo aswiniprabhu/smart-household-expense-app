@@ -1,28 +1,28 @@
-# 💰 Smart Household Expense Predictor
+# Smart Household Expense Predictor
 
 An interactive Streamlit web application that helps analyze, visualize, predict, and forecast household expenses using Machine Learning and Time Series Forecasting techniques.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Managing household expenses effectively is essential for better financial planning. This application enables users to upload household expense datasets, explore spending patterns, compare machine learning models, and forecast future expenses through an interactive dashboard.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 📊 Interactive Dashboard
-- 📈 Exploratory Data Analysis (EDA)
-- 🤖 Expense Prediction using Machine Learning
-- 📉 Time Series Forecasting
-- 🔄 Model Comparison
-- 📁 Dynamic CSV Dataset Upload
-- 📋 Downloadable Results
+- Interactive Dashboard
+- Exploratory Data Analysis (EDA)
+- Expense Prediction using Machine Learning
+- Time Series Forecasting
+- Model Comparison
+- Dynamic CSV Dataset Upload
+- Downloadable Results
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -35,21 +35,21 @@ Managing household expenses effectively is essential for better financial planni
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 - Linear Regression
 - Random Forest Regression
 
 ---
 
-## 📈 Forecasting Models
+## Forecasting Models
 
 - Holt's Linear Trend Method
 - Holt-Winters Exponential Smoothing
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 smart-household-expense-app/
@@ -64,7 +64,7 @@ smart-household-expense-app/
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -73,7 +73,7 @@ streamlit run app_new.py
 
 ---
 
-## 📊 Project Highlights
+## Project Highlights
 
 - Interactive financial dashboards
 - Household expense prediction
@@ -83,7 +83,7 @@ streamlit run app_new.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Multiple dataset support
 - Additional forecasting models
@@ -93,7 +93,7 @@ streamlit run app_new.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aswini Star Alphonse**
 
