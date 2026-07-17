@@ -53,7 +53,7 @@ Analyze the relationship between household expenses and financial variables usin
 
 Identify important factors influencing household expenses using Random Forest Regression.
 
-![Random Forest](screenshots/Random-Forest.png)
+![Random Forest](screenshots/random-forest.png)
 
 ---
 
