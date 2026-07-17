@@ -21,6 +21,55 @@ Managing household expenses effectively is essential for better financial planni
 - Downloadable Results
 
 ---
+---
+
+# Application Preview
+
+## Dashboard
+
+Interactive dashboard providing an overview of household expenses, KPIs, trends, and visual analytics.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Forecasting
+
+Forecast future household expenses using Holt's Linear Trend and Holt-Winters Exponential Smoothing models.
+
+![Forecasting](screenshots/forecasting.png)
+
+---
+
+## Regression Analysis
+
+Analyze the relationship between household expenses and financial variables using Multiple Linear Regression.
+
+![Regression](screenshots/regression.png)
+
+---
+
+## Random Forest Analysis
+
+Identify important factors influencing household expenses using Random Forest Regression.
+
+![Random Forest](screenshots/random-forest.png)
+
+---
+
+## Model Comparison
+
+Compare the performance of Linear Regression and Random Forest models using evaluation metrics.
+
+![Model Comparison](screenshots/model-comparison.png)
+
+---
+
+## Expense Predictor
+
+Predict household expenses based on user-provided inputs using the trained machine learning model.
+
+![Expense Predictor](screenshots/expense-predictor.png)
 
 ## Technologies Used
 
