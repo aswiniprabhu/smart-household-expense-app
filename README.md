@@ -57,8 +57,19 @@ smart-household-expense-app/
 ├── app_new.py
 ├── README.md
 ├── requirements.txt
+├── config.toml
+│
 ├── datasets/
+│   ├── Dataset A (Linear) - Linear relationships
+│   ├── Dataset B (Moderate) - Moderately linear relationships
+│   └── Dataset C (Complex) - Complex/non-linear relationships
+│
 ├── screenshots/
+│   ├── Dashboard.png
+│   ├── Forecasting.png
+│   ├── Model Comparison.png
+│   └── Expense Predictor.png
+│
 └── .streamlit/
 ```
 
