@@ -60,13 +60,15 @@ smart-household-expense-app/
 ├── config.toml
 │
 ├── datasets/
-│   ├── Dataset A (Linear) - Linear relationships
-│   ├── Dataset B (Moderate) - Moderately linear relationships
-│   └── Dataset C (Complex) - Complex/non-linear relationships
+│   ├── Dataset A (Linear).csv      - Linear relationships
+│   ├── Dataset B (Moderate).csv    - Moderately linear relationships
+│   └── Dataset C (Complex).csv     - Complex/non-linear relationships
 │
 ├── screenshots/
 │   ├── Dashboard.png
 │   ├── Forecasting.png
+│   ├── Regression.png
+│   ├── Random Forest.png
 │   ├── Model Comparison.png
 │   └── Expense Predictor.png
 │
