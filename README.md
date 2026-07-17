@@ -37,7 +37,7 @@ Interactive dashboard providing an overview of household expenses, KPIs, trends,
 
 Forecast future household expenses using Holt's Linear Trend and Holt-Winters Exponential Smoothing models.
 
-![Forecasting](screenshots/Forecasting.png)
+![Forecasting](screenshots/forecasting.png)
 
 ---
 
@@ -45,7 +45,7 @@ Forecast future household expenses using Holt's Linear Trend and Holt-Winters Ex
 
 Analyze the relationship between household expenses and financial variables using Multiple Linear Regression.
 
-![Regression](screenshots/Regression.png)
+![Regression](screenshots/regression.png)
 
 ---
 
@@ -61,7 +61,7 @@ Identify important factors influencing household expenses using Random Forest Re
 
 Compare the performance of Linear Regression and Random Forest models using evaluation metrics.
 
-![Model Comparison](screenshots/Model-Comparison.png)
+![Model Comparison](screenshots/model-comparison.png)
 
 ---
 
@@ -69,7 +69,7 @@ Compare the performance of Linear Regression and Random Forest models using eval
 
 Predict household expenses based on user-provided inputs using the trained machine learning model.
 
-![Expense Predictor](screenshots/Expense-Predictor.png)
+![Expense Predictor](screenshots/expense-predictor.png)
 
 ## Technologies Used
 
