@@ -154,6 +154,9 @@ streamlit run app_new.py
 - User authentication
 
 ---
+## Live Demo
+
+https://smart-household-expense-app.streamlit.app
 
 ## Author
 
